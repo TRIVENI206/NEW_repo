@@ -1,4 +1,4 @@
 # NEW_repo
 this is my first github repository
 <br>
-author name triveni reddy
+author name trivenireddy 206
